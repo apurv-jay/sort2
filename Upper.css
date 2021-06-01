@@ -1,0 +1,38 @@
+.UpperPart
+{
+    background-color: beige;
+    position: relative;
+    top: -30px;
+}
+.Head
+{   
+    text-align: center;
+  
+}
+.Input
+{
+    position: relative;
+    top : -30px;
+}
+
+.eta{
+    position: relative;
+    top:20px;
+}
+.b1
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.b2
+{
+    margin-right:10px;
+}
+.b3
+{
+    margin-right: 10px;
+}
+.b4
+{
+    margin-right: 100px;
+}
